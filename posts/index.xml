@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>https://example.org/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 04 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automation For Blogging</title>
+      <link>https://example.org/posts/installation-and-setup/</link>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.org/posts/installation-and-setup/</guid>
+      <description>&lt;h1 id=&#34;obsidian---why-i-love-it&#34;&gt;Obsidian - Why I love it&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Obsidian is the BEST notes application in the world. Go download it: &lt;a href=&#34;https://obsidian.md/&#34;&gt;Obsidian&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;the-setup&#34;&gt;The Setup&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Create a new folder labeled &lt;em&gt;posts&lt;/em&gt;. This is where you will add your blog posts&lt;/li&gt;&#xA;&lt;li&gt;….that’s all you have to do&lt;/li&gt;&#xA;&lt;li&gt;Actually…wait….find out where your Obsidian directories are. Right click your &lt;em&gt;posts&lt;/em&gt; folder and choose &lt;em&gt;show in system explorer&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;You’ll need this directory in upcoming steps.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;!&lt;img src=&#34;https://example.org/images/Image%2020241203184321.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;setting-up-hugo&#34;&gt;Setting up Hugo&lt;/h1&gt;&#xA;&lt;h2 id=&#34;install-hugo&#34;&gt;Install Hugo&lt;/h2&gt;&#xA;&lt;h3 id=&#34;prerequisites&#34;&gt;Prerequisites&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Install Git: &lt;a href=&#34;https://github.com/git-guides/install-git&#34;&gt;Git&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Install Go: &lt;a href=&#34;https://go.dev/dl/&#34;&gt;Go&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;install-hugo-1&#34;&gt;Install Hugo&lt;/h3&gt;&#xA;&lt;p&gt;Link: Download the &lt;a href=&#34;https://gohugo.io/installation/&#34;&gt;Hugo&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
